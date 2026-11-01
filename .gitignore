@@ -1,0 +1,10 @@
+﻿# IDE / build junk
+*.o
+*.obj
+*.lst
+*.map
+*.tmp
+.vs/
+*.user
+*.suo
+Thumbs.db
